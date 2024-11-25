@@ -16,40 +16,6 @@ Python
 ReportLab (for PDF generation)
 CSV (for data storage)
 Regular Expressions (for user ID validation)
-Installation
-Clone the repository:
-
-bash
-
-Verify
-
-Open In Editor
-Edit
-Copy code
-git clone https://github.com/yourusername/expense-tracker.git
-cd expense-tracker
-Install the required libraries:
-
-bash
-
-Verify
-
-Open In Editor
-Edit
-Copy code
-pip install reportlab
-Usage
-Run the application:
-
-bash
-
-Verify
-
-Open In Editor
-Edit
-Copy code
-python expense_tracker.py
-Follow the on-screen prompts to create a new user or log in with an existing user ID.
 
 Use the menu options to manage your expenses.
 
@@ -74,3 +40,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Acknowledgements
 Thanks to the Python community for their support and resources.
 Special thanks to the developers of ReportLab for their excellent library for PDF generation.
+Some help from ChatGpt was also taken.
